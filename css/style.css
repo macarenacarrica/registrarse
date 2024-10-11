@@ -1,3 +1,9 @@
 .container {
   max-width: 960px;
 }
+.is-valid {
+  border-color: #28a745; 
+}
+.is-invalid {
+  border-color: #dc3545; 
+}
